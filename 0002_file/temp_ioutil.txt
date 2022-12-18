@@ -1,0 +1,1 @@
+This is an example to show how to write to file using ioutil
